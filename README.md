@@ -6,3 +6,6 @@ The integration of a chatbot further enhanced user engagement and interactivity 
 HTML5 and CSS3 provided the foundation for structuring and styling the portfolio, while JavaScript empowered dynamic interactions and functionalities, such as form validation or interactive elements. Additionally, the use of Bootstrap, a popular front-end framework, facilitated rapid development and ensured a responsive design that adapts fluidly to different screen sizes, enhancing accessibility and usability.
 
 The integration of a chatbot not only added a unique and interactive element to the portfolio but also demonstrated proficiency in implementing emerging technologies to enhance user experience. By leveraging JavaScript libraries or frameworks specialized in chatbot development, such as Chat-Bot, the portfolio could offer advanced features like natural language processing or integration with external APIs, further enriching user interactions.
+
+![Uploading Portfolio homepage.png…]()
+
