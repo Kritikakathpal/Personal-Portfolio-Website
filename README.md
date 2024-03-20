@@ -7,6 +7,8 @@ HTML5 and CSS3 provided the foundation for structuring and styling the portfolio
 
 The integration of a chatbot not only added a unique and interactive element to the portfolio but also demonstrated proficiency in implementing emerging technologies to enhance user experience. By leveraging JavaScript libraries or frameworks specialized in chatbot development, such as Chat-Bot, the portfolio could offer advanced features like natural language processing or integration with external APIs, further enriching user interactions.
 
+**Here is the homepage:**
+
 ![Portfolio homepage](https://github.com/Kritikakathpal/Personal-Portfolio-Website/assets/132382693/9851e4fb-800a-49f9-b683-56529e434008)
 
 
